@@ -1,2 +1,2 @@
-let message: string = 'Hell, Type Script';
+let message: string = 'Hell, ts1-node';
 console.log({message})
